@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/consul",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Consul","number":34}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp63YQ","name":"Consul","color":"22125A","description":""},"name":"Consul","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/33",
+    "result": {"data":{"issuesJson":{"id":"2f4ed167-215a-54af-8b0a-dd6e543352a2","title":"命令行工具","number":33,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-19T15:39:38Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"命令行工具","color":"D63778"}},{"node":{"name":"更多","color":"70F12B"}}]},"comments":{"edges":[]}}},"pageContext":{"number":33,"previous":{"title":"抓包工具","number":32},"next":{"title":"Consul","number":34}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

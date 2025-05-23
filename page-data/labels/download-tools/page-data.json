@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/download-tools",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Download-Tools","number":76}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp6-8g","name":"Download-Tools","color":"603072","description":""},"name":"Download-Tools","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

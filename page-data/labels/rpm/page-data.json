@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/rpm",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"RPM","number":60}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp67xQ","name":"RPM","color":"661D71","description":""},"name":"RPM","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

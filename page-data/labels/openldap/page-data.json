@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/openldap",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"OpenLDAP","number":30}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp62gg","name":"OpenLDAP","color":"AA3A17","description":""},"name":"OpenLDAP","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/prometheus-exporter",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Prometheus-Exporter","number":54}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp66qQ","name":"Prometheus-Exporter","color":"28B2F1","description":""},"name":"Prometheus-Exporter","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}
