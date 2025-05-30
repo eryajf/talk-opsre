@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/微服务框架",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"微服务框架","number":39}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp64Rw","name":"微服务框架","color":"8C36B5","description":""},"name":"微服务框架","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

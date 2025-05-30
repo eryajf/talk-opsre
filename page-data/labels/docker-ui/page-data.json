@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/docker-ui",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Docker-UI","number":70}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp69zA","name":"Docker-UI","color":"611F64","description":""},"name":"Docker-UI","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

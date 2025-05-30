@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/防火墙",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"防火墙","number":8}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp6yWQ","name":"防火墙","color":"EC0993","description":""},"name":"防火墙","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

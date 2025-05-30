@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/证书管理",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"证书管理","number":15}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp6zjA","name":"证书管理","color":"756841","description":""},"name":"证书管理","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}
