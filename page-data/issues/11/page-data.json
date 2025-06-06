@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/11",
+    "result": {"data":{"issuesJson":{"id":"2510d0bc-a1ed-5a38-b2a6-dd53ab24d41c","title":"Etcd","number":11,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-18T15:07:14Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"Etcd","color":"2B9AFD"}}]},"comments":{"edges":[]}}},"pageContext":{"number":11,"previous":{"title":"CICD","number":10},"next":{"title":"Language-Tools","number":12}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

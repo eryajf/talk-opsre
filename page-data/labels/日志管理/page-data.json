@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/日志管理",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"日志管理","number":50}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp66Gg","name":"日志管理","color":"10FDB0","description":""},"name":"日志管理","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

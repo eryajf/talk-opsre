@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/iaas",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"IaaS","number":59}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp67nw","name":"IaaS","color":"C3B497","description":""},"name":"IaaS","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/k8s-network",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"K8S-Network","number":77}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp6_FA","name":"K8S-Network","color":"F09222","description":""},"name":"K8S-Network","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

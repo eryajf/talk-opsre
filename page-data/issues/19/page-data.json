@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/19",
+    "result": {"data":{"issuesJson":{"id":"cd6701b2-fdbf-5ca7-8cb9-d2936f535ded","title":"ShortURL","number":19,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-18T15:07:19Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"ShortURL","color":"61515E"}}]},"comments":{"edges":[]}}},"pageContext":{"number":19,"previous":{"title":"Monitor","number":18},"next":{"title":"安全扫描","number":20}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

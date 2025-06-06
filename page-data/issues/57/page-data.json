@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/57",
+    "result": {"data":{"issuesJson":{"id":"e418ad86-c174-5abb-92e1-c69be9b695f9","title":"应用进程管理","number":57,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-19T15:39:12Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"应用进程管理","color":"CF8A93"}},{"node":{"name":"更多","color":"70F12B"}}]},"comments":{"edges":[]}}},"pageContext":{"number":57,"previous":{"title":"机器镜像","number":56},"next":{"title":"Dev-Tools","number":58}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

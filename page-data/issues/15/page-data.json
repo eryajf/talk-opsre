@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/15",
+    "result": {"data":{"issuesJson":{"id":"7447d6d9-a2a2-598a-b7ce-6dacb1cde3a5","title":"证书管理","number":15,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-18T15:07:16Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"证书管理","color":"756841"}}]},"comments":{"edges":[]}}},"pageContext":{"number":15,"previous":{"title":"内网穿透","number":14},"next":{"title":"CMDB","number":16}}},
+    "staticQueryHashes": ["151096407","2861350382"]}
