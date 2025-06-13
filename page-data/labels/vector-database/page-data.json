@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/vector-database",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"vector-database","number":55}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp663g","name":"vector-database","color":"7F0100","description":""},"name":"vector-database","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

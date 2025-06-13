@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/notification",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Notification","number":24}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp61Ng","name":"Notification","color":"096A95","description":""},"name":"Notification","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

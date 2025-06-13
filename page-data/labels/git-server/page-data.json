@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/git-server",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Git-Server","number":47}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp65rQ","name":"Git-Server","color":"03EDA0","description":""},"name":"Git-Server","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}
