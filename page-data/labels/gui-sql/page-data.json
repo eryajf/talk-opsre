@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/gui-sql",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"GUI-SQL","number":35}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp63tg","name":"GUI-SQL","color":"445D90","description":""},"name":"GUI-SQL","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

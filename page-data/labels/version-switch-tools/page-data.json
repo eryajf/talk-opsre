@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/version-switch-tools",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Version-Switch-Tools","number":37}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp64FQ","name":"Version-Switch-Tools","color":"EB0CBF","description":""},"name":"Version-Switch-Tools","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

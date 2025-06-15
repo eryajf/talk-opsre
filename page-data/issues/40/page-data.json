@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/40",
+    "result": {"data":{"issuesJson":{"id":"11eef239-01f1-5dbd-93bc-b991ada4a5c6","title":"Crontab","number":40,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-19T15:39:41Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"Crontab","color":"867464"}},{"node":{"name":"更多","color":"70F12B"}}]},"comments":{"edges":[]}}},"pageContext":{"number":40,"previous":{"title":"微服务框架","number":39},"next":{"title":"Gateway","number":41}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/codesearch",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"CodeSearch","number":28}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp62Bw","name":"CodeSearch","color":"801DEC","description":""},"name":"CodeSearch","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

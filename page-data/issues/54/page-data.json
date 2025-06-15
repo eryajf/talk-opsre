@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/54",
+    "result": {"data":{"issuesJson":{"id":"b5924156-ef54-5f42-b70c-584fe431366a","title":"Prometheus-Exporter","number":54,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-19T15:39:11Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"Prometheus-Exporter","color":"28B2F1"}},{"node":{"name":"更多","color":"70F12B"}}]},"comments":{"edges":[]}}},"pageContext":{"number":54,"previous":{"title":"Http-Server","number":53},"next":{"title":"vector-database","number":55}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

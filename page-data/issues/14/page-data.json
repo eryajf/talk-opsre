@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/14",
+    "result": {"data":{"issuesJson":{"id":"7466c4d9-78d3-5e5e-bebe-a3b6f48e97ee","title":"内网穿透","number":14,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-18T15:07:16Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"内网穿透","color":"3503D2"}}]},"comments":{"edges":[]}}},"pageContext":{"number":14,"previous":{"title":"Shell-Scripts","number":13},"next":{"title":"证书管理","number":15}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

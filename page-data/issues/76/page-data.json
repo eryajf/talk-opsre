@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/76",
+    "result": {"data":{"issuesJson":{"id":"3a1a0b42-8779-5301-9994-dc0928132b2b","title":"Download-Tools","number":76,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-19T00:58:14Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"Download-Tools","color":"603072"}}]},"comments":{"edges":[]}}},"pageContext":{"number":76,"previous":{"title":"远程桌面控制","number":75},"next":{"title":"K8S-Network","number":77}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

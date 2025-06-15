@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/openresty",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"OpenResty","number":36}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp636Q","name":"OpenResty","color":"0FE15E","description":""},"name":"OpenResty","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}
