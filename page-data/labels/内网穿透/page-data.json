@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/内网穿透",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"内网穿透","number":14}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp6zYw","name":"内网穿透","color":"3503D2","description":""},"name":"内网穿透","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

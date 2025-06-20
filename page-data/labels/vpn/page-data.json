@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/vpn",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"VPN","number":31}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp62sA","name":"VPN","color":"02F468","description":""},"name":"VPN","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/166",
+    "result": {"data":{"issuesJson":null},"pageContext":{"number":166,"previous":{"title":"abiosoft/colima: MacOS 和 Linux 上的容器运行时，只需最少的设置","number":165},"next":{"title":"wagoodman/dive: 用于探索分析 docker 镜像、分层内容以及发现缩小 Docker/OCI 镜像大小的方法的工具","number":167}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

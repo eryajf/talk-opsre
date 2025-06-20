@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/数据管道",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"数据管道","number":44}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp65Lg","name":"数据管道","color":"14844A","description":""},"name":"数据管道","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

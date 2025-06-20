@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/177",
+    "result": {"data":{"issuesJson":null},"pageContext":{"number":177,"previous":{"title":"quay/quay: Red Hat 开源的 Docker 镜像仓库，类似 Harbor","number":176},"next":{"title":"go-sigma/sigma: Sigma是一个无痛自托管的一体化软件开发服务，它包括OCI构件管理器、垃圾回收、命名空间配额、多架构构件和OCI镜像构建。它类似于Harbor，但分发由其自身实现，所有服务都可以通过一个命令启动。","number":178}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

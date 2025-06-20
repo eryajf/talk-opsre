@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/gateway",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Gateway","number":41}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp64ug","name":"Gateway","color":"CBE070","description":""},"name":"Gateway","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

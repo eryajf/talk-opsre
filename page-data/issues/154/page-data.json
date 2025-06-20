@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/154",
+    "result": {"data":{"issuesJson":null},"pageContext":{"number":154,"previous":{"title":"kubecube-io/KubeCube: K8s 资源可视化管理以及统一的多集群多租户管理平台","number":153},"next":{"title":"noovertime7/kubemanage: 一个简单易用的 K8s 管理平台，前端使用 Vue3 ，后端使用 Gin+Gorm ，未来将支持多集群接入","number":155}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

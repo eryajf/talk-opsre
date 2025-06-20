@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/151",
+    "result": {"data":{"issuesJson":null},"pageContext":{"number":151,"previous":{"title":"karmada-io/karmada: Karmada 旨在为多云和混合云场景中的多集群应用管理提供统包自动化，具有集中式多云管理、高可用性、故障恢复和流量调度等关键功能。","number":150},"next":{"title":"kubeclipper/kubeclipper: KubeClipper 是一个轻量级的 Web 服务，为 Kubernetes 集群生命周期管理 提供友好的 Web 控制台 GUI、API 和 CLI 工具。","number":152}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/database",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Database","number":52}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp66Wg","name":"Database","color":"19C52B","description":""},"name":"Database","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

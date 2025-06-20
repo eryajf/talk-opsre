@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/测试压测",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"测试压测","number":68}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp69WA","name":"测试压测","color":"D947CF","description":""},"name":"测试压测","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}
