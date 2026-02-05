@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/74",
+    "result": {"data":{"issuesJson":{"id":"863697d4-5b00-5a26-83d0-faec6258d314","title":"消息队列","number":74,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-19T00:58:35Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"消息队列","color":"8EB55A"}}]},"comments":{"edges":[]}}},"pageContext":{"number":74,"previous":{"title":"堡垒机","number":73},"next":{"title":"远程桌面控制","number":75}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

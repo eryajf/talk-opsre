@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/jenkins-tooles",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Jenkins-Tooles","number":65}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp685A","name":"Jenkins-Tooles","color":"1DCDDC","description":""},"name":"Jenkins-Tooles","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

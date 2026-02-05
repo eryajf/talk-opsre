@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/package-manage",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Package-Manage","number":48}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp654g","name":"Package-Manage","color":"6FFB79","description":""},"name":"Package-Manage","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/etcd",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Etcd","number":11}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp6y2g","name":"Etcd","color":"2B9AFD","description":""},"name":"Etcd","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

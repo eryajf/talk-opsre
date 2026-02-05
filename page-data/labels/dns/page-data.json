@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/dns",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"DNS","number":46}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp65Zg","name":"DNS","color":"74861B","description":""},"name":"DNS","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

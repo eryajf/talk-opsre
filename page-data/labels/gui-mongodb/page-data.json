@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/gui-mongodb",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"GUI-MongoDB","number":23}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp60_g","name":"GUI-MongoDB","color":"4E83B1","description":""},"name":"GUI-MongoDB","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

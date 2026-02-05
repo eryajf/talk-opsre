@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/18",
+    "result": {"data":{"issuesJson":{"id":"c6a3eb6f-870b-5731-8921-af28f2c218b8","title":"Monitor","number":18,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-18T15:07:18Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"Monitor","color":"31A3EE"}}]},"comments":{"edges":[]}}},"pageContext":{"number":18,"previous":{"title":"Forum","number":17},"next":{"title":"ShortURL","number":19}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

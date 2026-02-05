@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/机器镜像",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"机器镜像","number":56}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp66-w","name":"机器镜像","color":"9A1B99","description":""},"name":"机器镜像","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

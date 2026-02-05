@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/wiki-server",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Wiki-Server","number":43}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp645Q","name":"Wiki-Server","color":"512C4C","description":""},"name":"Wiki-Server","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

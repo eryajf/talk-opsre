@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/language-tools",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Language-Tools","number":12}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp6zAw","name":"Language-Tools","color":"A42563","description":""},"name":"Language-Tools","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

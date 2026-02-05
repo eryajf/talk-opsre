@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/sync-tools",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Sync-Tools","number":25}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp61bQ","name":"Sync-Tools","color":"95CB84","description":""},"name":"Sync-Tools","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/78",
+    "result": {"data":{"issuesJson":{"id":"4cf3d7bf-6b42-55c2-ab5e-6089dc5178b8","title":"Search-Engine","number":78,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-19T00:57:35Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"Search-Engine","color":"285421"}}]},"comments":{"edges":[]}}},"pageContext":{"number":78,"previous":{"title":"K8S-Network","number":77},"next":{"title":"物联网","number":79}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

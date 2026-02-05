@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/文档",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"文档","number":67}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp69DA","name":"文档","color":"AD9535","description":""},"name":"文档","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/search-engine",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Search-Engine","number":78}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp6_NQ","name":"Search-Engine","color":"285421","description":""},"name":"Search-Engine","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

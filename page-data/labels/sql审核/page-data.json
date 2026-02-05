@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/sql审核",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"SQL审核","number":72}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp6-KQ","name":"SQL审核","color":"6EBA9E","description":""},"name":"SQL审核","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

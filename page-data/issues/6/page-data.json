@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/6",
+    "result": {"data":{"issuesJson":{"id":"5f961403-13a2-5f5a-bb6c-49783b5324b8","title":"Kafka-Manage","number":6,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-18T15:07:12Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"Kafka-Manage","color":"EF63E5"}}]},"comments":{"edges":[]}}},"pageContext":{"number":6,"previous":{"title":"Email","number":5},"next":{"title":"ServiceMesh","number":7}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

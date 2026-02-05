@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/71",
+    "result": {"data":{"issuesJson":{"id":"683f519c-4ad5-5127-9c54-c7615d21a52b","title":"K8S-Cluster-Manage","number":71,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-19T15:39:18Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"K8S-Cluster-Manage","color":"EA780A"}},{"node":{"name":"更多","color":"70F12B"}}]},"comments":{"edges":[]}}},"pageContext":{"number":71,"previous":{"title":"Docker-UI","number":70},"next":{"title":"SQL审核","number":72}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/运维自动化",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"运维自动化","number":51}},{"node":{"title":"vecmdb","number":93}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp66PA","name":"运维自动化","color":"10CC0E","description":""},"name":"运维自动化","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

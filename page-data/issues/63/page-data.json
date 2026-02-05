@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/63",
+    "result": {"data":{"issuesJson":{"id":"8108034c-646e-5e05-9c35-e0a2c5910756","title":"文件管理系统","number":63,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-19T15:39:14Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"文件管理系统","color":"E93465"}},{"node":{"name":"更多","color":"70F12B"}}]},"comments":{"edges":[]}}},"pageContext":{"number":63,"previous":{"title":"流量回放","number":62},"next":{"title":"Docker-Tools","number":64}}},
+    "staticQueryHashes": ["151096407","2861350382"]}

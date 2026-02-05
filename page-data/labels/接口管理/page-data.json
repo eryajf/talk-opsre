@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/接口管理",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"接口管理","number":38}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp64Hw","name":"接口管理","color":"44EC8C","description":""},"name":"接口管理","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/物联网",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"物联网","number":79}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp6_hg","name":"物联网","color":"C73939","description":""},"name":"物联网","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

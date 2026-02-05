@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/混沌测试",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"混沌测试","number":80}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp6_4Q","name":"混沌测试","color":"B0C27A","description":""},"name":"混沌测试","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

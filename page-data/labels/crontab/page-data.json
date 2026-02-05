@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/crontab",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Crontab","number":40}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp64fg","name":"Crontab","color":"867464","description":""},"name":"Crontab","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

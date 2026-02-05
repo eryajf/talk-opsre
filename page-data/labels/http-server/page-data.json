@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/http-server",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"Http-Server","number":53}}]}},"pageContext":{"labels":{"id":"LA_kwDOOr5kcs8AAAACAp66hA","name":"Http-Server","color":"44AE46","description":""},"name":"Http-Server","nlen":3}},
+    "staticQueryHashes": ["151096407","2861350382"]}

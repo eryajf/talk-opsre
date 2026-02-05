@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-issues-tsx",
+    "path": "/issues/30",
+    "result": {"data":{"issuesJson":{"id":"3ff92714-6dfe-57aa-897d-03ca293d9e89","title":"OpenLDAP","number":30,"bodyHTML":"<p dir=\"auto\">this is test</p>","updatedAt":"2025-05-19T15:39:37Z","upvoteCount":null,"author":{"login":"eryajf","avatarUrl":"https://avatars.githubusercontent.com/u/33259379?u=e4a4090a38ac2473aaed4ef9945233636776c6c3&v=4","url":"https://github.com/eryajf"},"category":null,"labels":{"edges":[{"node":{"name":"OpenLDAP","color":"AA3A17"}},{"node":{"name":"更多","color":"70F12B"}}]},"comments":{"edges":[]}}},"pageContext":{"number":30,"previous":{"title":"GUI-Redis","number":29},"next":{"title":"VPN","number":31}}},
+    "staticQueryHashes": ["151096407","2861350382"]}
